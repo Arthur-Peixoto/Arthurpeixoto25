@@ -15,9 +15,9 @@
 
 
 <div align="center">
-  <a href="https://github.com/Arthurpeixoto25">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Arthurpeixoto25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurpeixoto25&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/Arthur-Peixoto">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Arthur-Peixoto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Peixoto&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   ##
