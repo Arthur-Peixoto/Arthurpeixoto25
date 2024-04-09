@@ -11,10 +11,10 @@
 <img src="https://komarev.com/ghpvc/?username=Arthur-Peixoto&color=blueviolet" alt="Profile Views">
 </p>
 
-<div align="center">
+<div align="center" display="flex">
 <img src="https://github-readme-stats.vercel.app/api?username=Arthur-Peixoto&theme=dark&show_icons=true" alt="GitHub Stats">
 <a href="https://github.com/Arthur-Peixoto/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Peixoto&hide_progress=false&theme=dark&layout=compact" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Peixoto&hide_progress=false&theme=dark&show_icons=true&locale=en&layout=compact&langs_count=10" alt="Top Languages">
 </a>
 
 </div>
