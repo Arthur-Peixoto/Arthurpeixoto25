@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arthur Peixoto</h1>
 <h3 align="center">A passionate developer from Brasil</h3>
 
-- 🌱 I’m currently learning **Flutter, Node.js and DevOps**
+- 🌱 I’m currently working with **Flutter, Typescript, Java, Laravel and DevOps**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
